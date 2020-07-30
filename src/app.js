@@ -12,8 +12,8 @@ import store from './components/store/store.js';
 const App = () => {
     return (
         <>
-            <Header />
             <Provider store={store}>
+                <Header />
                 <Categories />
                 <Products />
             </Provider>
