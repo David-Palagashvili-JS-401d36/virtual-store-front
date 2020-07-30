@@ -13,6 +13,7 @@ const useStyles = makeStyles((theme) => ({
         alignItems: 'center',
     },
 }));
+
 // TODO: dig in the docs and better understand how to use the shopping cart icon
 // const ShoppingCartOutlined = () => ({
 //     title: {
